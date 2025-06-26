@@ -1,4 +1,20 @@
-# 🗂 Front-End Checklist
+# 🗂Фронт-энд ЧеклистФронт-енд чеклист - это исчерпывающий список всех элементов, которые необходимо протестировать перед запуском вашего сайта или HTML-страницы в производство. Другие чеклисты: - Фронт-енд производительность Чеклист (https://github. com/thedavidia s/front-en d-perf-checklis t) - Дизайн Чеклист(https:// thedaviddia ss.github .io/fronte nd-desig n-checkli st) [!TIP]⭐️ Dev-FriendlyUX Patterns YouWish YouKnew.👉UXPatternsforDevelopers📚TableofContents-HowtoUse-Head-HTML-Webfonts-CSS-JavaScript-AccessibilityHowtoUse?#🗃Front-endChecklistTheFront-endchecklistisanexhaustivelistofalltheelementsyouneedtohave/testbeforelaunchingyourwebsite/HTMLpageinto production. **OtherChecklists:** - [🔢Front-EndPerformanceCheckList](https: //github.com /thedavidi as/Front -End-Performanc e-Checklis t#---------fron t-end-performanc e-checklist-) - 💎Front-EndDesignCheckList(https: //thedavid ias.github. io/FrontEnd-Desig nCheckLis t#front -end-desi gn-checklist) > [!TIP ] ⭐️Dev-friendlyUXpatternsyouwishyouknew.👉[UXPatterns forDevs]( https://uxpat terns.dev /en ) ⭐️##📚Table ofContents- [Howtouse](#howtouse)-[Head](#hea d)-[HTML](#h tml)-[Webfonts](#we bfonts)-[CSS](#c ss)-[JavaScript](#j avascript)-[Accessibility](#accessibilit y)##Howtouse?# 🗂Front-End Checklist
+
+The Front-End checklist is an exhaustive list of all the elements you need to test before you launch your website or HTML page into production.Other checklists:- [Front-End Performance CheckList](https://github.com/thedavidias/front-end-perf-checklist)
+- [Design CheckList](https://thedaviddiass.github.io/frontend-design-checklist)
+
+[!TIP] ⭐️ Dev-Friendly UX Patterns You Wish You Knew. 👉 UX Patterns for Developers
+
+📚 Table of Contents
+- How to Use
+  - Head
+  - HTML
+  - Webfonts
+  - CSS
+  - JavaScript
+  - Accessibility
+
+How to Use?# 🗂 Front-End Checklist
 
 The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website /
 HTML page to production.
